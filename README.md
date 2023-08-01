@@ -11,6 +11,7 @@ maintaining or scaling existing products including <b>Retail</b>, <b>E-Commerce<
 
 <div>
 <h2 align="center">Skill Set</h2>
+
 #### &#10029; Frontend <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&#9989; Javascript, Typescript <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&#9989; HTML, CSS, SCSS, SASS <br/>

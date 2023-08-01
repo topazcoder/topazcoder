@@ -1,9 +1,8 @@
 <h1 align="center">- Full Stack Software Archaeologist -</h1>
 <h4 align="center">
-  Possessing an entrepreneurial drive and <b>strong</b> work ethic stemming from my midwest roots, 
-He's collaborated with a wide range of enterprise level companies, spanning various scales and industries. 
-Played an integral role in putting digital vision into reality with world-class software building 
-from scratch, maintaining or scaling existing products including <b>Retail</b>, <b>E-Commerce</b>, <b>Logistics</b>, 
+  Played an integral role in putting digital vision into reality with world-class software building 
+from scratch, <br>
+maintaining or scaling existing products including <b>Retail</b>, <b>E-Commerce</b>, <b>Logistics</b>, 
 <b>Banking and Finance</b>, <b>Healthcare</b>, <b>Media and Entertainment</b>, <b>Game Development</b>.
 </h4>
 <p align="center">

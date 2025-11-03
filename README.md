@@ -53,7 +53,6 @@ maintaining or scaling existing products including <b>Retail</b>, <b>E-Commerce<
 	
 </div>
 
-
 ## 🔥 Streak Stats
 <div align="center">
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=topazcoder&theme=blueberry&hide_border=true" />

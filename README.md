@@ -6,11 +6,26 @@ maintaining or scaling existing products including <b>Retail</b>, <b>E-Commerce<
 <b>Banking and Finance</b>, <b>Healthcare</b>, <b>Media and Entertainment</b>, <b>Game Development</b>.
 </h4>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&center=true&vCenter=true&duration=3000&color=%2338C2FF&size=40&height=200&width=800&lines=Full+Stack+Developer;Both+Frontend+and+Backend;Good+sense+in+team+spirit;Those+are+all+you+will+taste">
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&center=true&vCenter=true&duration=3000&color=%2338C2FF&size=40&height=200&width=800&lines=AI+and+Blockchain;Both+Frontend+and+Backend;Good+sense+in+team+spirit;Those+are+all+you+will+taste">
 </p>
 
 <div>
 <h2 align="center">Skill Set</h2>
+
+#### &#10029; AI/ML <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&#9989; NLP, NLU, RAG, STS, TTS, YOLO, LSTM, GRU, MOE, Model Training<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&#9989; PyTorch, TensorFlow, Keras, PySpark, LangChain, LangGraph<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&#9989; OpenAI, LLM, LoRA, SageMaker, TensorRT<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Scalable Data Pipelines, GPU Optimization, RTB<br/>
+
+#### &#10029; Blockchain <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Ethereum/EVM, Cosmos SDK/Tendermint, Polkadot/Substrate, Hyperledger Fabric<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&#9989; ECC, SHA-256, Keccak-256, ECDSA, ZKP, HSMs, Vault, MPC<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&#9989; PoW, PoS, Delegated PoS, PoH, PoA, PoI, BFT, Rollups, Plasma, State Channels<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Gossip protocols, libp2p<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Solidity, Rust, Move<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&#9989; ERC-20, ERC-721, ERC-1155, SPL tokens<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Reentrancy Protection, Gas Optimization, Formal Verification<br/>
 
 #### &#10029; Frontend <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&#9989; Javascript, Typescript <br/>
@@ -20,16 +35,10 @@ maintaining or scaling existing products including <b>Retail</b>, <b>E-Commerce<
 &nbsp;&nbsp;&nbsp;&nbsp;&#9989; Redux, Redux-Saga, Redux-thunk, RESTful, GraphQL API, Web3.js, Ethers.js <br/>
 
 #### &#10029; Backend <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Node, Express,Django, Flask <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Django, Flask, Rocket, Actix, .NET, Spring Boot, Node, Express<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&#9989; Ruby on Rails, Elixir, Phoenix <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&#9989; KeystoneJS, Contentful, Strapi, Prismic <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&#9989; MySQL, PostgreSQL, MongoDB, CouchDB, GraphDB <br/>
-
-#### &#10029; Blockchain <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Bitcoin, Ethereum, Polygon, Arbitrum, TRON, Solana, BNB, Aptos, Hedera Hashgraph, Hyper Ledger, Fabric Ledger <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Solidity, Rust, Move, Haskell, Golang, C/C++ <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&#9989; ERC20, ERC721, ERC721A, ERC1155, BEP200 <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Defi,DEX,AMM, UniSwap,Pancake Swap,Sushi Swap <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&#9989; MySQL, MSSQL, PostgreSQL, MongoDB, CouchDB, GraphDB, VectorDB<br/>
 
 #### &#10029; Cloud service, DevOps, and others <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&#9989; AWS (Lambda, S3, EC2, Amplify, DynamoDB, Codebuild, Codepipeline, RDS, Cogniter, Route53, CloudFront, VPC) <br/>
@@ -59,3 +68,8 @@ maintaining or scaling existing products including <b>Retail</b>, <b>E-Commerce<
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=topazcoder&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="topazcoder" height="192px"/>
   <br/>
 
+---
+
+### 📈 **GitHub Analytics**
+
+![3D Contribution Graph](./profile-3d-contrib/profile-night-rainbow.svg)

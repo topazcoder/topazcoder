@@ -65,7 +65,7 @@ maintaining or scaling existing products including <b>Retail</b>, <b>E-Commerce<
 </p>
 
 <div align='center'>
-  <img height="140em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdullahxyz85&theme=algolia" >&nbsp;&nbsp;<img height="140em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abdullahxyz85&theme=algolia">
+  <img height="140em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=topazcoder&theme=algolia" >&nbsp;&nbsp;<img height="140em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=topazcoder&theme=algolia">
 </div>
 
 ---

@@ -6,6 +6,9 @@ maintaining or scaling existing products including <b>Retail</b>, <b>E-Commerce<
 <b>Banking and Finance</b>, <b>Healthcare</b>, <b>Media and Entertainment</b>, <b>Game Development</b>.
 </h4>
 <p align="center">
+  <img src="https://skills.syvixor.com/api/icons?i=rust,python,go,java,kotlin,csharp,ts,js,solidity,c,assembly,actix,tauri,tensorflow,pytorch,keras,huggingface,langchain,django,fastapi,flask,gin,springboot,springsecurity,dotnet,nodejs,expressjs,nextjs,graphql,swagger,svelte,react,reactnative,angular,vue,nextjs,blazor,electron,html,css3,tailwindcss,materialui,mysql,postgresql,mongodb,neo4j,snowflake,rabbitmq,kafka,docker,kubernetes,amazonwebservices,azure,googlecloud,github,prometheus,grafana,githubcopilot,claudeai,chatgpt" />
+</p>
+<p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&center=true&vCenter=true&duration=3000&color=%2338C2FF&size=40&height=200&width=800&lines=AI+and+Blockchain;Both+Frontend+and+Backend;Good+sense+in+team+spirit;Those+are+all+you+will+taste">
 </p>
 
@@ -54,19 +57,14 @@ maintaining or scaling existing products including <b>Retail</b>, <b>E-Commerce<
 </div>
 
 ## 🔥 Streak Stats
-<div align="center">
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=topazcoder&theme=blueberry&hide_border=true" />
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=topazcoder&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=topazcoder&layout=compact&langs_count=8&theme=chartreuse-dark"/>
+</p>
+
+<div align='center'>
+  <img height="140em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdullahxyz85&theme=algolia" >&nbsp;&nbsp;<img height="140em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abdullahxyz85&theme=algolia">
 </div>
-
-
-<summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="topazcoder's Github Stats" src="https://github-readme-stats.vercel.app/api?username=topazcoder&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
-<br/>
-  &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=topazcoder&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="topazcoder" height="192px"/>
-  <br/>
 
 ---
 

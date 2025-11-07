@@ -18,6 +18,7 @@ maintaining or scaling existing products including <b>Retail</b>, <b>E-Commerce<
 <h2 align="center">Skill Set</h2>
 
 #### &#10029; AI/ML <br/>
+
 &nbsp;&nbsp;&nbsp;&nbsp;&#9989; NLP, NLU, RAG, STS, TTS, YOLO, LSTM, GRU, MOE, Model Training<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&#9989; PyTorch, TensorFlow, Keras, PySpark, LangChain, LangGraph<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&#9989; OpenAI, LLM, LoRA, SageMaker, TensorRT<br/>
